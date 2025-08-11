@@ -34,4 +34,4 @@ The organization can gain key insights by using this dashboard by identifying th
 # -Strategic improvements:
 To reduce attrition, the company should strengthen onboarding and early engagement programs, ensuring new hires feel supported from day one. Revising compensation strategies—especially for lower-paid roles—can help retain talent vulnerable to competitive offers. Focused retention efforts are needed for high-turnover roles like Laboratory Technicians and Sales Executives, including clearer career paths and role-specific support. Expanding development opportunities and internal mobility can engage younger employees seeking growth.
 # Screenshots:
-HR Attrition dashboard screenshot- 
+HR Attrition dashboard screenshot- https://github.com/sarah-fatima13/HR-Attrition-dashboard/blob/main/HR%20analytics%20dashboard%20screenshot.png
