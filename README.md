@@ -1,5 +1,8 @@
 # HR-Attrition-dashboard
 #  HR Attrition dashboard
+# Live Dashboard
+Explore the live dashboard here-🌐(https://app.powerbi.com/view?r=eyJrIjoiOGM1ZjBmYjAtNjJhYS00OWNjLWI2ZmEtNjY2ODRmZjlhYzJkIiwidCI6IjFmYzI2Zjg3LTc0MzktNDdmMS1hZDJiLTg0YTYyY2IxYTc0MyJ9)
+# Project overview:
 This dynamic interactive dashboard provides key insights into workforce metrics, including employee demographics, attrition trends, hiring patterns, and performance indicators. It helps HR teams make data-driven decisions to enhance employee engagement and organizational efficiency.
 # Short description:
 This visually engaging and analytical HR Analytics Power BI Dashboard provides a comprehensive view of employee attrition patterns and workforce metrics. With a total of 1,470 employees, the dashboard highlights an attrition count of 237, resulting in an attrition rate of 16.1%. The average employee age is 37 years, the average salary is 6.5K, and the average tenure at the company is 7 years. By combining data visualization with actionable insights, this dashboard empowers HR teams to make informed decisions, improve retention strategies, and enhance overall workforce planning.
@@ -35,3 +38,4 @@ The organization can gain key insights by using this dashboard by identifying th
 To reduce attrition, the company should strengthen onboarding and early engagement programs, ensuring new hires feel supported from day one. Revising compensation strategies—especially for lower-paid roles—can help retain talent vulnerable to competitive offers. Focused retention efforts are needed for high-turnover roles like Laboratory Technicians and Sales Executives, including clearer career paths and role-specific support. Expanding development opportunities and internal mobility can engage younger employees seeking growth.
 # Screenshots:
 HR Attrition dashboard screenshot- https://github.com/sarah-fatima13/HR-Attrition-dashboard/blob/main/HR%20analytics%20dashboard%20screenshot.png
+# Live dashboard:
