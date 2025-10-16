@@ -1,7 +1,7 @@
-# HR-Attrition-dashboard
+
 #  HR Attrition dashboard
 # Live Dashboard
-Explore the live dashboard here-🌐Live dashboard 
+Explore the live dashboard here-🌐https://app.powerbi.com/view?r=eyJrIjoiOGM1ZjBmYjAtNjJhYS00OWNjLWI2ZmEtNjY2ODRmZjlhYzJkIiwidCI6IjFmYzI2Zjg3LTc0MzktNDdmMS1hZDJiLTg0YTYyY2IxYTc0MyJ9
 # Project overview:
 This dynamic interactive dashboard provides key insights into workforce metrics, including employee demographics, attrition trends, hiring patterns, and performance indicators. It helps HR teams make data-driven decisions to enhance employee engagement and organizational efficiency.
 # Short description:
